@@ -17,3 +17,4 @@ CREATE TABLE usuarios (
     PRIMARY KEY (id),
     UNIQUE KEY (email)
 );
+.
